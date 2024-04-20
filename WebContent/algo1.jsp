@@ -72,7 +72,7 @@
         const options = {
             method: 'GET',
             headers: {
-                'X-RapidAPI-Key': '6341ed85efmshe7c35ac2a9950e6p1f063ejsnfebe3b48c9fc',
+                'X-RapidAPI-Key': 'YourApiKey',
                 'X-RapidAPI-Host': 'alpha-vantage.p.rapidapi.com'
             }
         };
